@@ -26,7 +26,8 @@ SECRET_KEY = '5=#pky^ha*mjalmd2r^j-d@es2(fnbn2bovm319^tvvg#*72+3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['4285c01e5e3d4877aaa0271a0c43754c.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['4285c01e5e3d4877aaa0271a0c43754c.vfs.cloud9.us-east-1.amazonaws.com',
+                 'https://dashboard.heroku.com/apps/simple-django-todo-eamon']
 
 
 # Application definition
